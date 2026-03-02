@@ -20,15 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
-<!-- Статистика GitHub -->
-## 📊 GitHub Статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arbit02&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbit02&layout=compact&theme=tokyonight" />
-</div>
-
 <!-- График активности -->
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arbit02&theme=react-dark)
 
