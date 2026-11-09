@@ -1,5 +1,4 @@
 <h1 align="center">Привет, меня зовут Владимир! 👋</h1>
-<h3 align="center"> Я начинающий Frontend разработчик из Москвы </h3>
 
 <!-- Анимированная линия разделитель -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
